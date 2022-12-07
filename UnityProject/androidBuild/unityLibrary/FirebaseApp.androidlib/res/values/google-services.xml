@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">586967911371</string>
+  <string name="google_storage_bucket" translatable="false">cgh-app.appspot.com</string>
+  <string name="project_id" translatable="false">cgh-app</string>
+  <string name="google_api_key" translatable="false">AIzaSyAL3dYAQr5dZeUt8IZ_kRzAhEA2AxsswG8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAL3dYAQr5dZeUt8IZ_kRzAhEA2AxsswG8</string>
+  <string name="google_app_id" translatable="false">1:586967911371:android:c54b555a92b80f3828844e</string>
+  <string name="default_web_client_id" translatable="false">586967911371-317vpldsgr60m718pl4u3f3q6holir2q.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586967911371",
+    "project_id": "cgh-app",
+    "storage_bucket": "cgh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586967911371:android:c54b555a92b80f3828844e",
+        "android_client_info": {
+          "package_name": "com.Immersively.CGHDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586967911371-317vpldsgr60m718pl4u3f3q6holir2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3dYAQr5dZeUt8IZ_kRzAhEA2AxsswG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586967911371-317vpldsgr60m718pl4u3f3q6holir2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
